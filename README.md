@@ -1,6 +1,6 @@
 # Urban Mobility Patterns Analysis
 
-![Chicago Transit](visualizations/cta_logo.png)
+<img src="visualizations/cta_logo.png" width="200" alt="Chicago Transit Authority Logo">
 
 ## Overview
 This project conducts an in-depth analysis of Chicago Transit Authority (CTA) ridership data spanning from 2001 to 2024. Using advanced data visualization and machine learning techniques, I explored how public transportation usage varies across Chicago's diverse neighborhoods, identified distinct station types based on usage patterns, and developed predictive models to forecast future ridership trends.
